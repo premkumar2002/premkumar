@@ -1,2 +1,3 @@
 # premkumar
-for coding
+for coding purpose 
+having interest in machine learning.
